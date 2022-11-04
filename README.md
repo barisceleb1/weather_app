@@ -1,16 +1,4 @@
 # weather_app
 
-A new Flutter project.
+It is very easy to find out the weather conditions in your location with this application. The weather conditions of the desired region on the world can be viewed in detail. The cities you want to look at later can be added to the favorite page.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
