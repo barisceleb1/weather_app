@@ -70,7 +70,7 @@ String apiKey= Api.apiKey;
 
       if (response.statusCode == 200) {
         debugPrint("Data fetching successful");
-//var result yazıyordu burda haberin olsun
+
         var result = jsonDecode(response.body);
         weather_list= Weather.fromJson(result);
         debugPrint("${weather_list?.location?.name}");
